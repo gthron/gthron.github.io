@@ -28,4 +28,4 @@ Uma pessoa letrada em dados consegue, no contexto empresarial, por exemplo:
  - Gerar hipóteses a partir de dados observados;
  - Testar as hipóteses geradas.
 
-Não basta fazer somente uma alfabetização em dados, mas sim chegar ao letramento em dados das pessoas da organização. Essa iniciativa em conjunto com a implementação de ferramentas de acesso adequadas é que vai sustentar uma cultura orientada a dados (data-driven) no longo prazo.
+Não basta fazer somente uma alfabetização em dados, mas sim chegar ao letramento em dados das pessoas da organização. Essa iniciativa em conjunto com a implementação de ferramentas de acesso adequadas é o que vai sustentar uma cultura orientada a dados (data-driven) no longo prazo.
