@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Sobre"
 ---
 
-Hi, my name is Gustavo and I'm a data analytics manager interested in data literacy, data visualization, building data analytics teams and fostering data-driven culture in organizations. 
+Olá, meu nome é Gustavo e sou um gerente de data analytics manager interessado em visualização de dados, letramento em dados e fomento de uma cultura orientada a dados em organizações.
