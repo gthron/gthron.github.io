@@ -12,8 +12,6 @@ tags:
   - orientação a dados
 ---
 
-## Alfabetização de dados ou letramento em dados?
-
 Alguns autores optam por uma tradução direta do termo *data literacy* do inglês para o português como *alfabetização de dados*. Traduzir *data literacy* simplesmente por alfabetização de dados acaba não trazendo todo o significado do termo original.
 
 No aprendizado de línguas há uma diferenciação entre os processos de alfabetização e letramento. Na alfabetização o estudante aprende a decodificar os elementos básicos que compõe os textos escritos (letras, sílabas, palavras, regras ortográficas, etc.). Com o letramento, o estudante passa a ser capaz de interpretar e entender os textos. 
