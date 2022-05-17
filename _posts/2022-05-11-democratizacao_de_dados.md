@@ -29,7 +29,7 @@ Uma democracia de dados traz:
  - Quebra de "silos" de dados, permitindo aos colaboradores analisar quaisquer informações coletadas pela organização (respeitando regras de privacidade e segurança).
 
 ### Como chegar lá?
-Chegar a uma democracia de dados plena em uma organização é, em geral, um objetivo de longo prazo que passa necessariamente pelo aumento de maturidade em dados da organização e pelo fomento de uma cultura de dados.
+Chegar a uma democracia de dados plena em uma organização é, em geral, um objetivo de longo prazo que passa necessariamente pelo aumento de maturidade em dados da organização e pelo fomento de uma [cultura orientada a dados (data-driven)]({{ site.baseurl }}{% link _posts/2022-05-17-cultura_orientada_a_dados.md %}).
 
 Quando fala-se em democratização de dados dentro de uma organização, a primeira resposta tende a ser voltada à implementação de ferramentas e plataformas de dados. 
 Ter uma ferramenta adequada é um pré-requisito importante, mas para a democratização de dados ela é apenas o primeiro passo, pois somente algumas pessoas da organização estarão preparadas para saber interagir com os dados.

@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Gustavo Thron"
   avatar : "/assets/images/bp0234.jpg"
-  bio    : "Gerente de data analytics interessado em fomentar uma cultura orientada a dados."
+  bio    : "Interessado em data analytics e em fomentar uma cultura orientada a dados em organizações."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
